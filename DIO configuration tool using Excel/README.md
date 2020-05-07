@@ -1,3 +1,3 @@
-# DIO confihuration tool using excel
+# DIO configuration tool using excel
  
 
