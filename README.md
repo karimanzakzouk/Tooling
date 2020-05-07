@@ -1,2 +1,3 @@
 # Tooling
-This repository for Tooling  projects 
+
+This repository contains Tooling labs and assignments

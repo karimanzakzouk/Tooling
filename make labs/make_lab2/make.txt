@@ -1,0 +1,12 @@
+$(fileObj1) : $(fileSrc1) 
+	$(CC) $(CFLAG) $< -o $@
+$(fileObj2) : $(fileSrc2) 
+	$(CC) $(CFLAG) $< -o $@
+$(fileObj3) : $(fileSrc3) 
+	$(CC) $(CFLAG) $< -o $@ 
+$(fileObj4) : $(fileSrc4) 
+	$(CC) $(CFLAG) $< -o $@ 
+$(fileObj5) : $(fileSrc5) 
+	$(CC) $(CFLAG) $< -o $@ 
+$(fileObj6) : $(fileSrc6) 
+	$(CC) $(CFLAG) $< -o $@
